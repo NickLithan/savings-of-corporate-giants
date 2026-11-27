@@ -296,18 +296,30 @@ reg_final$post <- as.integer(reg_final$year >= 2018)
 # -----------------------------------------------------------------------------
 # 6. Main difference-in-differences regression and clustered SE robustness
 # -----------------------------------------------------------------------------
-model_final <- fixest::feols(
+models_tech_pharma <- list()
+models_tech_pharma$fa <- fixest::feols(
   fa_ratio ~ post:tech_dummy + post:pharma_dummy | gvkey + year,
   data = reg_final,
   vcov = 'iid'
 )
+models_tech_pharma$cash <- fixest::feols(
+  cash_ratio ~ post:tech_dummy + post:pharma_dummy | gvkey + year,
+  data = reg_final,
+  vcov = 'iid'
+)
+models_tech_pharma$mkt <- fixest::feols(
+  mkt_ratio ~ post:tech_dummy + post:pharma_dummy | gvkey + year,
+  data = reg_final,
+  vcov = 'iid'
+)
+model_final <- models_tech_pharma$fa
 
 cat('\n===== TABLE 2, PANEL A, COLUMN 1: IID STANDARD ERRORS =====\n')
-print(summary(model_final, vcov = 'iid'))
+print(summary(models_tech_pharma, vcov = 'iid'))
 cat('\n===== ROBUSTNESS: STANDARD ERRORS CLUSTERED BY FIRM =====\n')
-print(summary(model_final, vcov = ~gvkey))
+print(summary(models_tech_pharma, vcov = ~gvkey))
 cat('\n===== COMPARATIVE REGRESSION TABLE =====\n')
-print(fixest::etable(model_final, vcov = list('iid', ~gvkey)))
+print(fixest::etable(models_tech_pharma, vcov = list("each", 'iid', ~gvkey)))
 
 # -----------------------------------------------------------------------------
 # 7. Report sample sizes and save results
@@ -335,9 +347,15 @@ print(table(reg_final$year))
 write.csv(sample_flow, file.path(out_dir, 'sample_flow.csv'), row.names = FALSE)
 saveRDS(reg_final, file.path(out_dir, 'regression_data_final.rds'))
 saveRDS(model_final, file.path(out_dir, 'model_final.rds'))
+saveRDS(models_tech_pharma, file.path(out_dir, 'models_tech_pharma.rds'))
 capture.output(
   fixest::etable(model_final, vcov = list('iid', ~gvkey)),
   file = file.path(out_dir, 'table2_panelA_col1.txt')
 )
+capture.output(
+  fixest::etable(models_tech_pharma, vcov = list("each", 'iid', ~gvkey)),
+  file = file.path(out_dir, 'table2_panelA_col1-3.txt')
+)
+
 
 message('\nFinished. See output/ for the results.')
