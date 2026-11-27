@@ -1,0 +1,15 @@
+                           model_final     model_final.1
+Dependent Var.:               fa_ratio          fa_ratio
+                                                        
+post x tech_dummy   -7.278*** (0.9541) -7.278*** (1.705)
+post x pharma_dummy  -4.879*** (1.247)   -4.879* (1.931)
+Fixed-Effects:      ------------------ -----------------
+gvkey                              Yes               Yes
+year                               Yes               Yes
+___________________ __________________ _________________
+S.E. type                          IID         by: gvkey
+Observations                     1,330             1,330
+R2                             0.86390           0.86390
+Within R2                      0.05336           0.05336
+---
+Signif. codes: 0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
