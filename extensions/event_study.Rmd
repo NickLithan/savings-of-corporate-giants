@@ -1,0 +1,80 @@
+---
+title: "Event Study (Dynamic DiD)"
+date: "27.11.2026"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    code_folding: hide
+---
+
+```{r message=FALSE}
+here::i_am("extension/event_study.Rmd")
+reg_final_path <- here::here("replication", "output", "regression_data_final.rds")
+reg_final <- readRDS(reg_final_path)
+```
+
+```{r}
+# Event-study regression with 2017 as reference year
+models_event_tech_pharma <- list()
+models_event_tech_pharma$fa <- fixest::feols(
+  fa_ratio ~
+    i(year, tech_dummy, ref = 2017) +
+    i(year, pharma_dummy, ref = 2017) |
+    gvkey + year,
+  data = reg_final,
+  vcov = ~gvkey
+)
+models_event_tech_pharma$cash <- fixest::feols(
+  cash_ratio ~
+    i(year, tech_dummy, ref = 2017) +
+    i(year, pharma_dummy, ref = 2017) |
+    gvkey + year,
+  data = reg_final,
+  vcov = ~gvkey
+)
+models_event_tech_pharma$mkt <- fixest::feols(
+  mkt_ratio ~
+    i(year, tech_dummy, ref = 2017) +
+    i(year, pharma_dummy, ref = 2017) |
+    gvkey + year,
+  data = reg_final,
+  vcov = ~gvkey
+)
+fixest::etable(models_event_tech_pharma, vcov = list("each",'iid', ~gvkey))
+```
+
+```{r}
+# Plot dynamic effects
+iplot(
+  models_event_tech_pharma$fa,
+  sep = 0,
+  ref.line = 0,
+  main = "Event Study: Financial Assets",
+  xlab = "Year",
+  ylab = "Effect relative to 2017 (pp)"
+)
+```
+
+```{r}
+iplot(
+  models_event_tech_pharma$cash,
+  sep = 0,
+  ref.line = 0,
+  main = "Event Study: Cash-like Assets",
+  xlab = "Year",
+  ylab = "Effect relative to 2017 (pp)"
+)
+```
+
+```{r}
+# Plot dynamic effects
+iplot(
+  models_event_tech_pharma$mkt,
+  sep = 0,
+  ref.line = 0,
+  main = "Event Study: Marketable Assets",
+  xlab = "Year",
+  ylab = "Effect relative to 2017 (pp)"
+)
+```
