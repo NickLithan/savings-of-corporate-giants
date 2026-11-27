@@ -1,0 +1,222 @@
+gvkey,ind,name,sector_not_sure,test_sector,description,source
+1632,BusEq,ANALOG DEVICES,tech?,tech,"an American multinational semiconductor company specializing in data conversion, signal processing and power management technology",https://en.wikipedia.org/wiki/Analog_Devices
+1891,BusEq,AUTOMATIC DATA PROCESSING,tech,tech,an American provider of human resources management software and services. ,https://en.wikipedia.org/wiki/ADP_(company)
+3532,BusEq,CORNING INC,tech,tech,"an American multinational technology company that specializes in specialty glass, ceramics, and related materials and technologies including advanced optics, primarily for industrial and scientific applications",https://en.wikipedia.org/wiki/Corning_Inc.
+4321,BusEq,EMERSON ELECTRIC CO,tech?,other,"manufactures products and provides engineering services for a wide range of industrial, commercial, and consumer markets.",https://en.wikipedia.org/wiki/Emerson_Electric
+5606,BusEq,HP INC,tech,tech,"develops personal computers (PCs), printers and related supplies, as well as 3D printing solutions.",https://en.wikipedia.org/wiki/HP_Inc.
+6008,BusEq,INTEL CORP,tech,tech,an American multinational corporation and technology company,https://en.wikipedia.org/wiki/Intel
+6066,BusEq,INTL BUSINESS MACHINES CORP,tech,tech,"an American multinational technology company, produces and sells computer hardware, middleware and software, and provides hosting and consulting services in areas ranging from mainframe computers to nanotechnology",https://en.wikipedia.org/wiki/IBM
+7585,BusEq,MOTOROLA SOLUTIONS INC,tech,tech,an American data communications and telecommunications equipment provider,https://en.wikipedia.org/wiki/Motorola_Solutions
+10499,BusEq,TEXAS INSTRUMENTS INC,tech,tech,an American technology company that designs and manufactures semiconductors and various integrated circuits,https://en.wikipedia.org/wiki/Texas_Instruments
+10530,BusEq,THERMO FISHER SCIENTIFIC INC,tech,tech,"an American provisioner of scientific instrumentation, reagents and consumables, and software and services to healthcare, life science, and other laboratories in academia, government, and industry (including in the biotechnology and pharmaceutical sectors)",https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific
+11399,BusEq,WESTERN DIGITAL CORP,tech,tech,an American computer hard disk drive manufacturer and data storage company,https://en.wikipedia.org/wiki/Western_Digital
+11670,BusEq,SPECTRUM BRND HLDG INC,tech?,other,"supplies consumer batteries, residential lock sets, builders hardware, faucets, personal care, household appliances, specialty pet supplies, lawn and garden accessories, and pest control products. ",https://www.bloomberg.com/profile/company/SPB:US
+3735,BusEq,DANAHER CORP,tech?,other,"designs, manufactures, and markets professional, medical, industrial and commercial products, and services in the sectors of test and measurement, environmental, life sciences, dental, and industrial technologies.",https://www.bloomberg.com/profile/company/DHR:US
+1690,BusEq,APPLE INC,tech,tech,"an American multinational technology company that designs, develops, and sells consumer electronics, computer software, and online services.",https://en.wikipedia.org/wiki/Apple_Inc.
+3282,BusEq,COMPAQ COMPUTER CORP,tech,tech,"a leader in the design, development, manufacture, and marketing of portable, desktop, laptop, and personal computer systems for business and professional users. ",https://www.encyclopedia.com/social-sciences-and-law/economics-business-and-labor/businesses-and-occupations/compaq-computer-corp
+7343,BusEq,MICRON TECHNOLOGY INC,tech,tech,"manufactures and markets dynamic random access memory chips (DRAMs), static random access memory chips (SRAMs), flash memory, semiconductor components, and memory modules.",https://www.bloomberg.com/profile/company/MU:US
+12141,BusEq,MICROSOFT CORP,tech,tech,"an American multinational technology company. It develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services.",https://en.wikipedia.org/wiki/Microsoft
+12053,BusEq,EMC CORP/MA,tech,tech,"provides enterprise storage systems, software, and networks. The Company offers cloud marketplace, data protection, data storage, networking, servers, and share information from all major computing environments and mainframe platforms.",https://www.bloomberg.com/profile/company/EMC:US
+13440,BusEq,LEVEL 3 COMMUNICATIONS INC,tech?,tech,an American multinational telecommunications and Internet service provider company,https://en.wikipedia.org/wiki/Level_3_Communications
+24800,BusEq,QUALCOMM INC,tech,tech,"creates intellectual property, semiconductors, software, and services related to wireless technology. ",https://en.wikipedia.org/wiki/Qualcomm
+20779,BusEq,CISCO SYSTEMS INC,tech,tech,"develops, manufactures and sells networking hardware, software, telecommunications equipment and other high-technology services and products",https://en.wikipedia.org/wiki/Cisco_Systems
+29241,BusEq,VIAVI SOLUTIONS INC,tech,tech,"an American network test, measurement and assurance technology company",https://en.wikipedia.org/wiki/Viavi_Solutions
+62599,BusEq,LUCENT TECHNOLOGIES INC,tech?,other,an American multinational telecommunications equipment company ,https://en.wikipedia.org/wiki/Lucent
+66368,BusEq,VERISIGN INC,tech,tech,operates a diverse array of network infrastructure,https://en.wikipedia.org/wiki/Verisign
+8972,BusEq,RAYTHEON CO,tech,tech,"researches, develops, and manufactures advanced technology products in the aerospace and defense industry, including aircraft engines, avionics, aerostructures, cybersecurity, missiles, air defense systems, and drones",https://en.wikipedia.org/wiki/Raytheon_Technologies
+114524,BusEq,EBAY INC,tech,tech,an American multinational e-commerce corporation,https://en.wikipedia.org/wiki/Ebay
+119314,BusEq,BOOKING HOLDINGS INC,tech,tech,"owns and operates several travel fare aggregators and travel fare metasearch engines including namesake and flagship Booking.com, Priceline.com, Agoda.com, Kayak.com, Cheapflights, Rentalcars.com, Momondo, and OpenTable. ",https://en.wikipedia.org/wiki/Booking_Holdings
+25056,BusEq,TIME WARNER INC,tech?,other,"a media and entertainment company. The Company's businesses include cable television networks that provide programming, feature films, television and home video production and distribution, and magazine publishing.",https://www.bloomberg.com/profile/company/TWX:US
+157855,BusEq,SALESFORCE.COM INC,tech,tech,supplies a customer relationship management service to businesses worldwide providing a technology platform for customers and developers to build and run business applications.,https://www.bloomberg.com/profile/company/CRM:US
+178083,BusEq,VMWARE INC -CL A,tech,tech,"provides virtualization solutions from the desktop to the data center. The Company offers products that addresses a range of IT problems which includes cost and operational inefficiencies, business continuity, software lifecycle management, and desktop management.",https://www.bloomberg.com/profile/company/VMW:US
+7985,BusEq,NORTHROP GRUMMAN CORP,tech,tech,an American global aerospace and defense technology company.,https://en.wikipedia.org/wiki/Northrop_Grumman
+165993,BusEq,FIDELITY NATIONAL INFO SVCS,tech,tech,"offers an array of financial products & services including; financial software development & support, business process outsourcing for back office banking operations & contact centers, merchant support via POS technology & digital channels for local small businesses to global enterprises, facilitation of global payment processing, B2C & B2B eCommerce Solutions, and more.",https://en.wikipedia.org/wiki/FIS_(company)
+170617,BusEq,FACEBOOK INC,tech,tech,an American social media and technology company,"https://en.wikipedia.org/wiki/Facebook,_Inc."
+12142,BusEq,ORACLE CORP,tech,tech,"an American multinational computer technology corporation. The company sells database software and technology, cloud engineered systems, and enterprise software products—particularly its own brands of database management systems.",https://en.wikipedia.org/wiki/Oracle_Corporation
+14489,BusEq,DELL TECHNOLOGIES INC,tech,tech,an American multinational technology company,https://en.wikipedia.org/wiki/Dell_Technologies
+24616,BusEq,PAYPAL HOLDINGS INC,tech,tech,operates as a technology platform company that enables digital and mobile payments on behalf of consumers and merchants. ,https://www.bloomberg.com/profile/company/PYPL:US
+26156,BusEq,HEWLETT PACKARD ENTERPRISE,tech,tech,"an American multinational enterprise information technology company. HPE is a business-focused organization with two divisions: Enterprise Group, which works in servers, storage, networking, consulting and support, and Financial Services.",https://en.wikipedia.org/wiki/Hewlett_Packard_Enterprise
+160329,BusEq,ALPHABET INC,tech,tech,the world's fourth-largest technology company by revenue,https://en.wikipedia.org/wiki/Alphabet_Inc.
+3336,BusEq,DXC TECHNOLOGY COMPANY,tech,tech,an American multinational corporation that provides B2B IT services,https://en.wikipedia.org/wiki/DXC_Technology
+180711,BusEq,BROADCOM INC,tech,tech,"an American designer, developer, manufacturer and global supplier of a wide range of semiconductor and infrastructure software products.",https://en.wikipedia.org/wiki/Broadcom_Inc.
+11636,BusEq,XEROX HOLDINGS CORP,tech,tech,an American global corporation that sells print and digital document products and services,https://en.wikipedia.org/wiki/Xerox
+4087,Chems,DU PONT (E I) DE NEMOURS,other,other,"provides agriculture and specialty products. The Company offers adhesives, resins, construction materials, animal nutrition and disease prevention, crop protection, seeds, food ingredients, polymer, fabrics, and fibers. DuPont serves clients worldwide.",https://www.bloomberg.com/profile/company/1715651D:US
+8762,Chems,PROCTER & GAMBLE CO,other,other,"provides products in the laundry and cleaning, paper, beauty care, food and beverage, and health care segments. ",https://www.bloomberg.com/profile/company/PG:US
+12151,Chems,COTY INC,other,other,"develops, manufactures, markets, and distributes fragrances, cosmetics, skin care, nail care, and both professional and retail hair care products.","https://en.wikipedia.org/wiki/Coty,_Inc."
+140760,Chems,MONSANTO CO,other?,other,an American agrochemical and agricultural biotechnology corporation,https://en.wikipedia.org/wiki/Monsanto
+4060,Chems,DOWDUPONT INC,other,other,"a holding company with the intent to form strong, independent, publicly traded companies in agriculture (Corteva Agriscence?) and specialty products (DuPont) sectors. ",https://www.dupont.com/news/dowdupont-completes-spin-off-of-dowinc.html
+9667,Chems,SHERWIN-WILLIAMS?CO,other,other,"primarily engages in the manufacture, distribution, and sale of paints, coatings and related products to professional, industrial, commercial, and retail customers primarily in North and South America and Europe",https://en.wikipedia.org/wiki/Sherwin-Williams
+4839,Durbl,FORD MOTOR CO,other,other,"designs, manufactures, and services cars and trucks. The Company also provides vehicle-related financing, leasing, and insurance through its subsidiary.",https://www.bloomberg.com/profile/company/F:US
+8253,Durbl,PACCAR INC,other,other,"engaged in the design, manufacture and customer support of light-, medium- and heavy-duty trucks",https://en.wikipedia.org/wiki/Paccar
+10301,Durbl,TRW INC,other,other,"an American corporation involved in a variety of businesses, mainly aerospace, automotive, and credit reporting",https://en.wikipedia.org/wiki/TRW_Inc.
+7875,Durbl,NEWELL BRANDS INC,other,other,"retails consumer products. The Company offers housewares, home furnishings, office supplies, tools and hardware, and hair accessories.",https://www.bloomberg.com/profile/company/NWL:US
+184996,Durbl,TESLA INC,other,other,"an American electric vehicle and clean energy company; specializes in electric vehicle manufacturing, battery energy storage from home to grid scale and, through its acquisition of SolarCity, solar panel and solar roof tile manufacturing","https://en.wikipedia.org/wiki/Tesla,_Inc."
+5073,Durbl,GENERAL MOTORS CO,other,other,"designs, builds, and sells cars, trucks, crossovers, and automobile parts. The Company offers vehicle protection, parts, accessories, maintenance, satellite radio, and automotive financing services. ",https://www.bloomberg.com/profile/company/GM:US
+118122,Durbl,APTIV PLC,other,other,a Jersey-domiciled auto parts company,https://en.wikipedia.org/wiki/Aptiv
+11465,Durbl,WHIRLPOOL?CORP,other,other,an American multinational manufacturer and marketer of home appliances,https://en.wikipedia.org/wiki/Whirlpool_Corporation
+29453,Enrgy,CHENIERE ENERGY INC,other,other,a liquefied natural gas (LNG) company,https://en.wikipedia.org/wiki/Cheniere_Energy
+1380,Enrgy,HESS CORP,other,other,,
+1678,Enrgy,APACHE CORP,other,other,,
+4503,Enrgy,EXXON MOBIL CORP,other,other,,
+5439,Enrgy,HALLIBURTON CO,other,other,One of the world's largest oil field service companies,https://en.wikipedia.org/wiki/Halliburton
+10466,Enrgy,ANDEAVOR,other,other,"an independent refiner and marketer of petroleum products, operating ten refineries in the Western United States ",https://en.wikipedia.org/wiki/Andeavor
+7912,Enrgy,NOBLE ENERGY INC,other,other,a company engaged in hydrocarbon exploration,https://en.wikipedia.org/wiki/Noble_Energy
+2991,Enrgy,CHEVRON CORP,other,other,,
+10482,Enrgy,TEXACO INC,other,other,,
+7017,Enrgy,MARATHON OIL CORP,other,other,,
+11923,Enrgy,ANADARKO PETROLEUM CORP,other,other,,
+8068,Enrgy,OCCIDENTAL PETROLEUM CORP,other,other,,
+16478,Enrgy,EOG RESOURCES INC,other,other,a company engaged in hydrocarbon exploration,https://en.wikipedia.org/wiki/EOG_Resources
+28256,Enrgy,XTO ENERGY INC,other,other,,
+27786,Enrgy,CHESAPEAKE ENERGY CORP,other,other,,
+15247,Enrgy,VALERO ENERGY CORP,other,other,,
+114303,Enrgy,CONOCO INC,other,other,,
+14934,Enrgy,DEVON ENERGY CORP,other,other,,
+8549,Enrgy,CONOCOPHILLIPS,other,other,,
+25495,Enrgy,DYNEGY INC,other,other,,
+186989,Enrgy,MARATHON PETROLEUM CORP,other,other,,
+170841,Enrgy,PHILLIPS 66,other,other,,
+32106,Enrgy,BAKER HUGHES A GE CO,other,other,,
+1078,Hlth,ABBOTT LABORATORIES,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+1478,Hlth,WYETH,pharma,pharma,an American pharmaceutical company,https://en.wikipedia.org/wiki/Wyeth
+2111,Hlth,BECTON DICKINSON & CO,pharma,pharma,"an American medical technology company that manufactures and sells medical devices, instrument systems, and reagents.",https://en.wikipedia.org/wiki/BD_(company)
+2403,Hlth,BRISTOL-MYERS SQUIBB CO,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+6730,Hlth,LILLY (ELI) & CO,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+7536,Hlth,PHARMACIA CORP,pharma,pharma,a pharmaceutical and biotechnological company in Sweden that merged with the American pharmaceutical company Upjohn in 1995,https://en.wikipedia.org/wiki/Pharmacia
+7750,Hlth,TENET HEALTHCARE CORP,other?,other,"owns or operates general hospitals and related health care facilities serving communities in the United States. The Company operates rehabilitation hospitals, specialty hospitals, long-term care facilities, psychiatric facilities, and medical office buildings near its general hospitals, as well as ancillary health care businesses.",https://www.bloomberg.com/profile/company/THC:US
+8530,Hlth,PFIZER INC,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+11670,Hlth,SPECTRUM BRND HLDG INC,other?,other,"supplies consumer batteries, residential lock sets, builders hardware, faucets, personal care, household appliances, specialty pet supplies, lawn and garden accessories, and pest control products. ",https://www.bloomberg.com/profile/company/SPB:US
+6266,Hlth,JOHNSON & JOHNSON,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+7257,Hlth,MERCK & CO,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+1602,Hlth,AMGEN INC,pharma,pharma,an American multinational biopharmaceutical company,https://en.wikipedia.org/wiki/Amgen
+7875,Hlth,NEWELL BRANDS INC,other?,other,"retails consumer products. The Company offers housewares, home furnishings, office supplies, tools and hardware, and hair accessories.",https://www.bloomberg.com/profile/company/NWL:US
+13599,Hlth,CELGENE CORP,pharma,pharma,"discovers, develops and commercializes medicines for cancer and inflammatory disorders",https://en.wikipedia.org/wiki/Celgene
+22260,Hlth,HCA HEALTHCARE INC,pharma?,pharma,"an American for-profit operator of health care facilities. In 2019 it managed 185 hospitals and 119 freestanding surgery centers,[2] including surgery centers, freestanding ERs, urgent care centers, and physician clinics in the United States and United Kingdom",https://en.wikipedia.org/wiki/HCA_Healthcare
+24468,Hlth,BIOGEN INC,pharma,pharma,"an American multinational biotechnology company, specializing in the discovery, development, and delivery of therapies for the treatment of neurological diseases to patients worldwide.",https://en.wikipedia.org/wiki/Biogen
+24856,Hlth,GILEAD SCIENCES INC,pharma,pharma,an American biopharmaceutical company,https://en.wikipedia.org/wiki/Gilead_Sciences
+25279,Hlth,BOSTON SCIENTIFIC CORP,pharma?,pharma,"a manufacturer of medical devices used in interventional medical specialties, including interventional radiology, interventional cardiology, peripheral interventions, neuromodulation, neurovascular intervention, electrophysiology, cardiac surgery, vascular surgery, endoscopy, oncology, urology and gynecology.",https://en.wikipedia.org/wiki/Boston_Scientific
+144559,Hlth,ZIMMER BIOMET HOLDINGS INC,other,other,"designs, develops, manufactures, and markets medical equipment. The Company offers orthopedic, dental, and spinal reconstructive implants, as well as bone cement and related surgical products.",https://www.bloomberg.com/profile/company/ZBH:US
+16101,Hlth,ABBVIE INC,pharma,pharma,got from a list of pharmaceutical companies,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+7228,Hlth,MEDTRONIC PLC,pharma?,pharma,"develops, manufactures, distributes, and sells device-based medical therapies to hospitals, physicians, clinicians, and patients worldwide.",https://finance.yahoo.com/quote/MDT/profile/
+10115,Hlth,STRYKER?CORP,other?,other,"Stryker's products include implants used in joint replacement and trauma surgeries; surgical equipment and surgical navigation systems; endoscopic and communications systems; patient handling and emergency medical equipment; neurosurgical, neurovascular and spinal devices; as well as other medical device products used in a variety of medical specialties.",https://en.wikipedia.org/wiki/Stryker_Corporation
+2285,Manuf,BOEING CO,other,other,,
+2817,Manuf,CATERPILLAR INC,other,other,,
+3532,Manuf,CORNING INC,tech?,tech,,
+4321,Manuf,EMERSON ELECTRIC CO,other?,other,,
+5046,Manuf,GENERAL DYNAMICS CORP,other,other,,
+5134,Manuf,GEORGIA-PACIFIC CORP,other,other,,
+6104,Manuf,INTL PAPER CO,other,other,,
+6435,Manuf,KIMBERLY-CLARK CORP,other,other,,
+7435,Manuf,3M CO,other,other,,
+10983,Manuf,UNITED TECHNOLOGIES CORP,other,other,,
+11670,Manuf,SPECTRUM BRND HLDG INC,other,other,,
+3835,Manuf,DEERE & CO,other,other,,
+10426,Manuf,TEMPLE-INLAND INC,other,other,,
+1300,Manuf,HONEYWELL INTERNATIONAL INC,tech?,tech,"a worldwide technology and manufacturing company. The Company provides aerospace products and services, control, sensing and security technologies for commercial buildings, safety and productivity solutions, specialty chemicals, advanced materials, process technology for refining and petrochemicals, and energy efficient products and solutions.",https://www.bloomberg.com/profile/company/HON:US
+7875,Manuf,NEWELL BRANDS INC,other?,other,,
+6268,Manuf,JOHNSON CONTROLS INTL PLC,other?,other,"offers air systems, building management, HVAC controls, security, and fire safety solutions",https://www.bloomberg.com/profile/company/JCI:US
+6774,Manuf,LOCKHEED MARTIN CORP,other,other,,
+63892,Manuf,NATIONAL OILWELL VARCO INC,other,other,,
+7985,Manuf,NORTHROP GRUMMAN CORP,tech,tech,,
+29830,Manuf,WESTROCK CO,other,other,"offers merchandising displays, paperboard, folding cartons, kraft papers, protective packaging, and pulp",https://www.bloomberg.com/profile/company/WRK:US
+7906,Manuf,NIKE?INC??-CL?B,other,other,"an American multinational corporation that is engaged in the design, development, manufacturing, and worldwide marketing and sales of footwear, apparel, equipment, accessories, and services","https://en.wikipedia.org/wiki/Nike,_Inc."
+9882,NA,SOUTHWEST?AIRLINES,other,other,,
+1722,NoDur,ARCHER-DANIELS-MIDLAND CO,other,other,,
+3144,NoDur,COCA-COLA CO,other,other,,
+3362,NoDur,CONAGRA BRANDS INC,other,other,,
+3505,NoDur,MOLSON COORS BEVERAGE CO,other,other,a multinational brewing company,https://en.wikipedia.org/wiki/Molson_Coors_Beverage_Company
+5071,NoDur,GENERAL MILLS INC,other,other,,
+6435,NoDur,KIMBERLY-CLARK CORP,other,other,,
+8479,NoDur,PEPSICO INC,other,other,,
+10793,NoDur,TYSON FOODS INC  -CL A,other,other,"a US exports leader in beef, pork, poultry and prepared foods",https://www.tysonfoods.com/
+11670,NoDur,SPECTRUM BRND HLDG INC,other?,other,,
+10726,NoDur,TRIBUNE MEDIA CO,other,other,,
+8543,NoDur,ALTRIA GROUP INC,other,other,,
+7875,NoDur,NEWELL BRANDS INC,other?,other,,
+142953,NoDur,MONDELEZ INTERNATIONAL INC,other,other,,
+140760,NoDur,MONSANTO CO,other?,other,,
+120877,NoDur,REYNOLDS AMERICAN INC,other,other,,
+179621,NoDur,PHILIP MORRIS INTERNATIONAL,other,other,,
+5568,NoDur,KRAFT HEINZ CO,other,other,,
+12756,NoDur,COCA-COLA EUROPEAN PARTNERS,other,other,,
+2710,NoDur,CONSTELLATION?BRANDS,other,other,"an American producer and marketer of beer, wine and spirits",https://en.wikipedia.org/wiki/Constellation_Brands
+1045,Others,AMERICAN AIRLINES GROUP INC,other,other,,
+3851,Others,DELTA AIR LINES INC,other,other,,
+4066,Others,OMNICOM GROUP,other?,other,"an American global media, marketing and corporate communications holding company",https://en.wikipedia.org/wiki/Omnicom_Group
+5439,Others,HALLIBURTON CO,other,other,,
+10795,Others,UNITED AIRLINES HOLDINGS INC,other,other,,
+10867,Others,UNION PACIFIC CORP,other,other,operates North America's premier railroad franchise,http://www.up.com/
+11456,Others,WEYERHAEUSER CO,other,other,an American timberland company,https://en.wikipedia.org/wiki/Weyerhaeuser
+2574,Others,CSX CORP,other,other,an American holding company focused on rail transportation and real estate in North America,https://en.wikipedia.org/wiki/CSX_Corporation
+7923,Others,NORFOLK SOUTHERN CORP,other,other,one of the nation's premier transportation companies,http://www.nscorp.com/
+14418,Others,MGM RESORTS INTERNATIONAL,other,other,,
+14590,Others,FREEPORT-MCMORAN INC,other,other,a mining company,https://en.wikipedia.org/wiki/Freeport-McMoRan
+20423,Others,CAESARS ENTERTAINMENT CORP,other,other,an American gaming hotel and casino corporation,https://en.wikipedia.org/wiki/Caesars_Entertainment_Corporation
+2490,Others,BURLINGTON NORTHERN SANTA FE,other,other,operates one of the largest freight railroad networks in North America,https://www.bnsf.com/
+28930,Others,MARRIOTT INTL INC,other,other,,
+4598,Others,FEDEX CORP,other,other,,
+10920,Others,UNITED PARCEL SERVICE INC,other,other,,
+25056,Others,TIME WARNER INC,other,other,,
+7881,Others,NEWMONT CORP,other,other,"engages in the production and exploration of gold, copper, silver, zinc, and lead",https://finance.yahoo.com/quote/NEM/
+161844,Others,LAS VEGAS SANDS CORP,other,other,an American casino and resort company,https://en.wikipedia.org/wiki/Las_Vegas_Sands
+12886,Others,TWENTY-FIRST CENTURY FOX INC,other,other,,
+164296,Others,DISCOVERY INC,other,other,,
+17928,Others,IQVIA HOLDINGS INC,other? tech? pharma?,tech,"provides advanced analytics, technology solutions, and contract research services to the life sciences industry in the Americas, Europe, Africa, and the Asia-Pacific. It operates through three segments: Technology & Analytics Solutions, Research & Development Solutions, and Contract Sales & Medical Solutions. ",https://finance.yahoo.com/quote/IQV/profile?p=IQV
+27054,Others,LIBERTY EXPEDIA HOLDINGS INC,tech?,tech,engages in the online travel and personal fitness industries. It operates through the Expedia and Vitalize segments.,https://www.forbes.com/companies/liberty-expedia-holdings/#6a7bd0235410
+1240,Shops,ALBERTSON'S INC,other,other,an American grocery company,https://en.wikipedia.org/wiki/Albertsons
+3813,Shops,TARGET CORP,other,other,,
+6502,Shops,KROGER CO,other,other,,
+6829,Shops,LOWE'S COMPANIES INC,other,other,,
+7154,Shops,MCDONALD'S CORP,other,other,,
+7241,Shops,CVS HEALTH CORP,other,other,,
+9359,Shops,SAFEWAY INC,other,other,,
+11259,Shops,WALMART INC,other,other,,
+9563,Shops,SEARS ROEBUCK & CO,other,other,,
+5680,Shops,HOME DEPOT INC,other,other,,
+2751,Shops,CARDINAL HEALTH INC,pharma?,pharma,"an American multinational health care services company; specializes in the distribution of pharmaceuticals and medical products; manufactures medical and surgical products, including gloves, surgical apparel, and fluid management products; operates the largest network of radiopharmacies in the U.S; provides medical products to over 75 percent of hospitals in the United States.",https://en.wikipedia.org/wiki/Cardinal_Health
+4611,Shops,MACY'S INC,other,other,,
+29028,Shops,COSTCO WHOLESALE CORP,other,other,,
+7171,Shops,MCKESSON CORP,pharma?,pharma,"an American company distributing pharmaceuticals and providing health information technology, medical supplies, and care management tools. ",https://en.wikipedia.org/wiki/McKesson_Corporation
+64768,Shops,AMAZON.COM INC,tech?,tech,"an American multinational conglomerate technology company. It focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence",https://en.wikipedia.org/wiki/Amazon_(company)
+6127,Shops,ENRON CORP,other,other,,
+31673,Shops,AMERISOURCEBERGEN CORP,pharma?,pharma,"an American drug wholesale company; provide drug distribution and related services designed to reduce costs and improve patient outcomes, distribute a line of brand name and generic pharmaceuticals, over-the-counter (OTC) health care products and home health care supplies and equipment",https://en.wikipedia.org/wiki/AmerisourceBergen
+8446,Shops,PENNEY (J C) CO,other,other,,
+6307,Shops,SEARS HOLDINGS CORP,other,other,,
+25495,Shops,DYNEGY INC,other,other,,
+32280,Shops,STARZ,other,other,,
+25356,Shops,EXPRESS SCRIPTS HOLDING CO,pharma?,pharma,a pharmacy benefit management (PBM) organization,https://en.wikipedia.org/wiki/Express_Scripts
+11264,Shops,WALGREENS BOOTS ALLIANCE INC,other,other,,
+2184,Shops,BEST?BUY?CO?INC,other?,other,,https://en.wikipedia.org/wiki/Best_Buy
+9667,Shops,SHERWIN-WILLIAMS?CO,other,other,,
+1581,Telcm,AT&T CORP,other,other,"originally the American Telephone and Telegraph Company, is the subsidiary of AT&T Inc. that provides voice, video, data, and Internet telecommunications and professional services to businesses, consumers, and government agencies.",https://en.wikipedia.org/wiki/AT%26T_Corporation
+2884,Telcm,CENTURYLINK INC,other,other,,
+10984,Telcm,SPRINT CORP,other,other,,
+1164,Telcm,MCI INC,other,other,,
+10726,Telcm,TRIBUNE MEDIA CO,other,other,,
+2136,Telcm,VERIZON COMMUNICATIONS INC,other,other,,
+2146,Telcm,BELLSOUTH CORP,other,other,,
+9899,Telcm,AT&T INC,other,other,,
+13440,Telcm,LEVEL 3 COMMUNICATIONS INC,tech?,tech,,
+12484,Telcm,ADELPHIA COMMUN -CL A,other,other,,
+13714,Telcm,VIACOMCBS INC,other,other,,
+24870,Telcm,NEXTEL COMMUNICATIONS INC,other,other,,
+60900,Telcm,DISH NETWORK CORP,other,other,a U.S. television provider,https://en.wikipedia.org/wiki/Dish_Network
+61489,Telcm,QWEST COMMUNICATION INTL INC,other,other,,
+115872,Telcm,FOX ENTERTAINMENT GROUP INC,other,other,,
+126136,Telcm,CHARTER COMMUNICATIONS INC,other,other,,
+25056,Telcm,TIME WARNER INC,other,other,,
+134845,Telcm,AT&T WIRELESS SERVICES INC,other,other,,
+3226,Telcm,COMCAST CORP,other,other,,
+17874,Telcm,T-MOBILE US INC,other,other,,
+12886,Telcm,TWENTY-FIRST CENTURY FOX INC,other,other,,
+165675,Telcm,VIACOM INC,other,other,,
+176404,Telcm,TIME WARNER CABLE INC,other,other,,
+3105,Telcm,IHEARTMEDIA INC,other,other,,
+164296,Telcm,DISCOVERY INC,other,other,an American mass media company,"https://en.wikipedia.org/wiki/Discovery,_Inc."
+12206,Telcm,DIRECTV,other,other,,
+32280,Telcm,STARZ,other,other,,
+160549,Telcm,LIBERTY GLOBAL PLC,other,other,,
+12485,Telcm,ALTICE USA INC,other,other,,
+3980,Telcm,DISNEY (WALT) CO,other,other,an American diversified multinational mass media and entertainment conglomerate,https://en.wikipedia.org/wiki/The_Walt_Disney_Company
+31448,Telcm,COX COMMUNICATIONS INC,other,other,"an American company that provides digital cable television, telecommunications and Home Automation services in the United States.",https://en.wikipedia.org/wiki/Cox_Communications
+135484,Telcm,FRONTIER?COMMUNICATIONS?CORP,other,other,,https://en.wikipedia.org/wiki/Frontier_Communications

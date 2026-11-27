@@ -3,7 +3,6 @@
 # Do not commit institutional / WRDS raw data or fitted samples:
 data/*.rds
 output/*.rds
-data/*.csv
 
 
 # R GITIGNORE: https://github.com/github/gitignore/blob/main/R.gitignore
