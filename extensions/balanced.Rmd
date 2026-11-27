@@ -9,9 +9,13 @@ output:
 ---
 
 ```{r message=FALSE}
-here::i_am("extension/balanced.Rmd")
+here::i_am("extensions/balanced.Rmd")
+
 reg_final_path <- here::here("replication", "output", "regression_data_final.rds")
 reg_final <- readRDS(reg_final_path)
+
+models_path <- here::here("replication", "output", "models_tech_pharma.rds")
+models_tech_pharma <- readRDS(models_path)
 ```
 
 ```{r}
@@ -30,19 +34,19 @@ balanced_data <- subset(
 
 # Estimate regression
 models_balanced_tech_pharma <- list()
-models_balanced_tech_pharma$fa <- feols(
+models_balanced_tech_pharma$fa <- fixest::feols(
   fa_ratio ~ post:tech_dummy + post:pharma_dummy |
     gvkey + year,
   data = balanced_data,
   vcov = ~gvkey
 )
-models_balanced_tech_pharma$cash <- feols(
+models_balanced_tech_pharma$cash <- fixest::feols(
   cash_ratio ~ post:tech_dummy + post:pharma_dummy |
     gvkey + year,
   data = balanced_data,
   vcov = ~gvkey
 )
-models_balanced_tech_pharma$mkt <- feols(
+models_balanced_tech_pharma$mkt <- fixest::feols(
   mkt_ratio ~ post:tech_dummy + post:pharma_dummy |
     gvkey + year,
   data = balanced_data,
@@ -52,5 +56,5 @@ models_balanced_tech_pharma$mkt <- feols(
 # Compare models using clustered standard errors
 models_compared <- c(models_tech_pharma, models_balanced_tech_pharma)[c(1, 4, 2, 5, 3, 6)]
 names(models_compared) <- rep(c("imbalanced", "balanced"), 3)
-etable(models_compared, vcov = ~gvkey)
+fixest::etable(models_compared, vcov = ~gvkey)
 ```

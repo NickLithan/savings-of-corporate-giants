@@ -9,7 +9,7 @@ output:
 ---
 
 ```{r message=FALSE}
-here::i_am("extension/event_study.Rmd")
+here::i_am("extensions/event_study.Rmd")
 reg_final_path <- here::here("replication", "output", "regression_data_final.rds")
 reg_final <- readRDS(reg_final_path)
 ```
@@ -46,7 +46,7 @@ fixest::etable(models_event_tech_pharma, vcov = list("each",'iid', ~gvkey))
 
 ```{r}
 # Plot dynamic effects
-iplot(
+fixest::iplot(
   models_event_tech_pharma$fa,
   sep = 0,
   ref.line = 0,
@@ -57,7 +57,7 @@ iplot(
 ```
 
 ```{r}
-iplot(
+fixest::iplot(
   models_event_tech_pharma$cash,
   sep = 0,
   ref.line = 0,
@@ -69,7 +69,7 @@ iplot(
 
 ```{r}
 # Plot dynamic effects
-iplot(
+fixest::iplot(
   models_event_tech_pharma$mkt,
   sep = 0,
   ref.line = 0,
